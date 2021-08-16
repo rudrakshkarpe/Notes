@@ -5,9 +5,9 @@ using namespace std;
 void printSomething(); // function prototyping
 
 // computer program to works from the top-->bottom
-// need to create it above before main function
+// need to create a new function above before main function
 // to skip it you can use function prototyping 
-// void/ int are reurn types of the function
+// void/int are return types of the function
 int main(){
 
     printSomething(); // calling a function
