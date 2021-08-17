@@ -10,5 +10,6 @@ int main(){
     cout<<:: tuna<<endl; 
     // :: is the unary scope resolution operator
     // usually comes handy in the variables with different datatypes
+    // :: is used to call the global varible 
     return 0;
 }

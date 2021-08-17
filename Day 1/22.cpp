@@ -14,4 +14,4 @@ int main(){
     }
 
     return 0;
-}
+}// this is a stock market program check it wiesly

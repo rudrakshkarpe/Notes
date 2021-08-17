@@ -5,9 +5,10 @@ using namespace std;
 int main(){
 
     int age = 23;
-    int money = 650;
+    int money = 500;
 
     if(age>21 && money > 500){
+    // if(age<21 || money == 500 || money >=9010 || money >1000){
     cout<<"You are allowed in!" <<endl;
  }
     
