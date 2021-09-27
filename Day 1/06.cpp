@@ -13,7 +13,7 @@ int main()
     // int x =  8 /5*5; 
     // int x = (8+9)*5/10;
     // associcative property
-    cout << x;
+    // cout << x;
 
     return 0;
 }

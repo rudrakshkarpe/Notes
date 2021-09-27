@@ -2,12 +2,12 @@
 
 using namespace std;
 
-// class RkClass{
-//     public: // access specifier
-//         void coolSaying(){
-//             cout<< "prechin to the choir" << endl;
-//         }
-// };
+class RkClass{
+    public: // access specifier
+        void coolSaying(){
+            cout<< "prechin to the choir" << endl;
+        }
+};
 
 // int main(){
 //     // there can be multiple functions that's why object plays a role here,

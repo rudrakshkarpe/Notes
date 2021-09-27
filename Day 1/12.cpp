@@ -2,7 +2,7 @@
 # include<string>
 
 using namespace std;
-// bad programmin practice to use puclic variables from the classes
+// useing puclic variables from the classes is a bad programing practice 
 
 // class Rkclass{
 //     public:
