@@ -35,16 +35,16 @@ using namespace std;
 // function will always remain same as class name
 // these get called as the objs are created
 
-class rudra{
-    int rudra(int x){
-        // cout<<"Working------> constructor";
-        x = 5;
-        return x;
+// class rudra{
+//     int rudra(int x){
+//         // cout<<"Working------> constructor";
+//         x = 5;
+//         return x;
 
-    }
-};
+//     }
+// };
 
-int main(){
-    rudra obj;
+// int main(){
+//     rudra obj;
    
-}
+// }
